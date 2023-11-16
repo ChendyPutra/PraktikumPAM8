@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PraktikumPAM8</string>
+    <string name="nama">Nama</string>
+    <string name="notlp">No Telepon</string>
+    <string name="almt">Alamat</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Back</string>
+
+</resources>
